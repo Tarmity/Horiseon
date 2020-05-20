@@ -5,4 +5,4 @@ Horiseon Social Solution Services Website needed the exiting code to be refactor
 Changed HTML element to be more semantic, logical structure, all images have Alt attributes, headings are in sequential order and a concise description title.
 
 # Added Comments
-All elements now have comments to inform furture developers of there functions.
+All elements in the index.html and style.css now have comments to inform furture developers of there functions.
